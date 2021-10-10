@@ -1,0 +1,6 @@
+# requirements
+requests
+python-dotenv
+
+# dev requirements
+pytest
